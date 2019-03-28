@@ -11,3 +11,10 @@
 2. 이 글을 에디트해주세요. https://github.com/sebride4988/clean-code-forum-kr/edit/master/README.md
 3. 자료를 수정하고 추가해주세요
 4. 
+
+## 클린코드 자료
+### 변수명 짓는 법
+* [변수 이름 제대로 짓기 위한 최소한의 영어 문법](https://soojin.ro/blog/naming-boolean-variables|Bool )
+
+## 기타 목록
+* [마크다운 기본문법](https://www.markdownguide.org/basic-syntax/)
