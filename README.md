@@ -11,7 +11,8 @@
 2. 이 글을 에디트해주세요. https://github.com/sebride4988/clean-code-forum-kr/edit/master/README.md
 3. 자료를 수정하고 추가해주세요
 <img width="1057" alt="스크린샷 2019-03-28 오전 10 37 06" src="https://user-images.githubusercontent.com/37501042/55123386-af784980-5145-11e9-920a-db73efa6638b.png">
-4. Create Pull Request 버튼을 눌러주세요!
+
+4. Create Pull Request 버튼을 눌러주세요
 5. 끝났습니다! 이제 클린 코드 프로젝트 기여자들이 문서 합병을 해주실 거에요!
 
 
