@@ -7,3 +7,7 @@
 그래서 클린코드에 관한 각종 정보를 모아놓는 글타래 글이 하나 있으면 좋겠다고 생각하고 작성하였습니다.
 
 ## 사용하는 방법
+1. 깃허브를 가입해주세요 https://github.com/join
+2. 이 글을 에디트해주세요. https://github.com/sebride4988/clean-code-forum-kr/edit/master/README.md
+3. 자료를 수정하고 추가해주세요
+4. 
